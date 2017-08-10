@@ -1,2 +1,3 @@
 # Hello-Github
-My first attempt ti use GitHub features 
+My first attempt to use GitHub features 
+Above "ti" corrected as "to"
